@@ -13,7 +13,8 @@ Este foi um exemplo.
 # *Criando marcadores*
 É suficiente que a cada início de marcador seja teclado um único **asterisco** e seu respectivo conteúdo seja teclado logo em seguida. Para aninhar um marcador a outro já existente, a cada ninho à dentro, **adicionar três espaços em branco antes do asterisco.** 
 * Este é um exemplo de marcador;
-   * Este é outro.
+   * Marcador aninhado ao anterior;
+      * Exemplo.
 ***
 # *Criando listas enumeradas*
 Pode ser feita de várias formas, tais quais:
