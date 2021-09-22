@@ -11,7 +11,7 @@ Basta usar três sinais de subtração ou asteriscos seguidos.
 Este foi um exemplo.
 
 # *Criando marcadores*
-É suficiente que a cada início de marcador seja teclado um único **asterisco** e seu respectivo conteúdo seja teclado logo em seguida. Para aninhar um marcador a outro já existente, a cada ninho à dentro, **adicionar três espaços em branco antes do asterisco.** 
+É suficiente que a cada início de marcador seja teclado um único **asterisco** ou **subtração** e seu respectivo conteúdo seja teclado logo em seguida. Para aninhar um marcador a outro já existente, a cada ninho à dentro, **adicionar três espaços em branco antes do asterisco/subtração.** 
 * Este é um exemplo de marcador;
    * Marcador aninhado ao anterior;
       * Exemplo.
@@ -32,6 +32,18 @@ Pode ser feita de várias formas, tais quais:
        1. Neto do item 1
 2. Exemplificando
 ***
+# *Criando listas de tarefas
+É feita teclando **- [ ] **
+* Exemplo:
+- [ ] Praticar Markdown
+- [ ] Compartilhar este artigo
+- [ ] Estudar Git e GitHub
+Também é possível marcar a tarefa como concluída, para tal, **basta remover o espaço em branco dentro dos colchetes e inserir o caractere X**
+* Exemplo:
+- [x] Praticar Markdown
+- [x] Compartilhar este artigo
+- [x] Estudar Git e GitHub 
+***
 # *Algumas maneiras para destacar palavras*
-* **Negrito** - Digitar o conteúdo entre *asteriscos duplos* ou *underlines duplos*;
-* *Itálico* - Digitar o conteúdo entre *asteriscos* ou *underlines*;
+* **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*;
+* *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*;
