@@ -46,10 +46,11 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 - [x] Estudar Git e GitHub 
 ***
 # *Algumas maneiras para destacar palavras*
-* **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*;
-* *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*;
+* **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
+* *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*
 ***
 # *Adicionando links*
-É feita a inserção de links teclando **[]()**, sem espaços, onde dentro dos colchetes será inserido um texto *clicável* e dentro dos parênteses será inserida a **URL**
-[Siga-me no GitHub xD](https://github.com/eduardojnr)
+É feita a inserção de links teclando **[]()**, sem espaços, onde dentro dos colchetes será inserido um texto *clicável* e dentro dos parênteses será inserida a **URL**.
+
+[Siga-me no GitHub :D](https://github.com/eduardojnr)
 ***
