@@ -32,7 +32,7 @@ Pode ser feita de várias formas, tais quais:
        1. Neto do item 1
 2. Exemplificando
 ***
-# *Criando listas de tarefas
+# *Criando listas de tarefas*
 É feita teclando **- [ ]** *Notar o espaço em branco entre os caracteres da função.*
 * Exemplo:
 - [ ] Praticar Markdown
@@ -50,3 +50,6 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 * *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*;
 ***
 # *Adicionando links*
+É feita a inserção de links teclando **[]()**, sem espaços, onde dentro dos colchetes será inserido um texto *clicável* e dentro dos parênteses será inserida a **URL**
+[Siga-me no GitHub xD](https://github.com/eduardojnr)
+***
