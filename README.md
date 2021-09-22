@@ -7,6 +7,8 @@ Podemos usar o caractere **Hashtag** acrescido de um **espaço em branco** no in
 
 # *Separando conteúdos usando uma linha horizontal*
 Basta usar três sinais de subtração ou asteriscos seguidos.
+***
+Este foi um exemplo
 
 # *Criando marcadores*
 É suficiente que a cada início de marcador seja teclado um único **asterisco** e seu respectivo conteúdo seja teclado logo em seguida.
