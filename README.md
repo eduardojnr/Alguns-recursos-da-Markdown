@@ -6,5 +6,5 @@ Podemos usar o caractere **Hashtag** acrescido de um **espaço em branco** no in
 
 # *Criando marcadores*
 É suficiente que a cada início de marcador seja teclado um único **asterisco** e seu respectivo conteúdo seja teclado logo em seguida.
-    * Este é um exemplo;
-    * Este é outro.
+* Este é um exemplo;
+* Este é outro.
