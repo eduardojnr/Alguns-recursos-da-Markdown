@@ -33,11 +33,12 @@ Pode ser feita de várias formas, tais quais:
 2. Exemplificando
 ***
 # *Criando listas de tarefas
-É feita teclando **- [ ]**
+É feita teclando **- [ ]** *Notar o espaço em branco entre os caracteres da função.*
 * Exemplo:
 - [ ] Praticar Markdown
 - [ ] Compartilhar este artigo
 - [ ] Estudar Git e GitHub
+
 Também é possível marcar a tarefa como concluída, para tal, **basta remover o espaço em branco dentro dos colchetes e inserir o caractere X**
 * Exemplo:
 - [x] Praticar Markdown
@@ -47,3 +48,5 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 # *Algumas maneiras para destacar palavras*
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*;
 * *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*;
+***
+# *Adicionando links*
