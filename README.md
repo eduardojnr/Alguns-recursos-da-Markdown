@@ -33,7 +33,7 @@ Pode ser feita de várias formas, tais quais:
 2. Exemplificando
 ***
 # *Criando listas de tarefas
-É feita teclando **- [ ] **
+É feita teclando **- [ ]**
 * Exemplo:
 - [ ] Praticar Markdown
 - [ ] Compartilhar este artigo
