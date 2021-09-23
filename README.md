@@ -54,8 +54,8 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 Nome | Telefone | Status
 ---|---|---
 Eduardo Carlos S. Pereira Junior | XXX-XXX-XXX | Estudando
-a | b | C
-a | d | C
+Michelle Ventura | XXX-XXX-XXX | Trabalhando
+Mateus Bonaparte | XXX-XXX-XXX | Estudando
 ***
 # *Algumas maneiras para destacar palavras*
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
