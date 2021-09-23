@@ -45,6 +45,15 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 - [x] Compartilhar este artigo
 - [x] Estudar Git e GitHub 
 ***
+# *Criando tabelas*
+* Para criar colunas é suficiente teclar **|**, dessa maneira, cada texto entre **|** será separado.
+* Em seguida, **tecle três subtrações e um |** para cada coluna criada.
+* Para escrever na tabela, é suficiente digitar o conteúdo de das colunas separados por **|**.
+***Exemplo***
+Nome | Telefone | Status
+---|---|---
+EdUardo Carlos S. Pereira Junior | XXX-XXX-XXX | Estudando
+***
 # *Algumas maneiras para destacar palavras*
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
 * *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*
