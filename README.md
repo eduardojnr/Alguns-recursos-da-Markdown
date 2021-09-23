@@ -53,7 +53,8 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 
 Nome | Telefone | Status
 ---|---|---
-Eduardo | XXX | Estudando
+Eduardo Carlos S. Pereira Junior | XXX-XXX-XXX | Estudando
+a | b | C
 
 ***
 # *Algumas maneiras para destacar palavras*
