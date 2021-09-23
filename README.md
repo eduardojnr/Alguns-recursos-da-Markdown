@@ -58,7 +58,9 @@ Michelle Ventura | XXX-XXX-XXX | Trabalhando
 Mateus Bonaparte | XXX-XXX-XXX | Estudando
 ***
 # *Algumas maneiras para destacar conteúdos*
-* **`Aspas`** - Teclar um conteúdo entre aspas é utilizado para representar linhas de código
+* `Representar comando ou linha de código` - Teclar um conteúdo entre aspas é utilizado para representar um comando ou linha de código
+* ```Representar um código``` - Utilizado para citar um código. **Para cada aninhamento teclar quatro espaços em branco**
+* >Texto marcado - Utilizar um sinal de maior ao iniciar o conteúdo
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
 * *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*
 ***
