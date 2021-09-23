@@ -59,7 +59,7 @@ Mateus Bonaparte | XXX-XXX-XXX | Estudando
 ***
 # *Algumas maneiras para destacar conteúdos*
 * `Representar comando ou linha de código` - Teclar um conteúdo entre aspas é utilizado para representar um comando ou linha de código
-* ```Representar um código``` - Utilizado para citar um código. **Para cada aninhamento teclar quatro espaços em branco**
+* ```Representar um código``` - Teclar conteúdo entre aspas triplas denota um código. **Para cada aninhamento teclar quatro espaços em branco**
 * >Texto marcado - Utilizar um sinal de maior ao iniciar o conteúdo
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
 * *Itálico* - Teclar o conteúdo entre *asteriscos* ou *underlines*
