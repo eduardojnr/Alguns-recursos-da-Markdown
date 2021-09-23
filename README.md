@@ -55,7 +55,7 @@ Nome | Telefone | Status
 ---|---|---
 Eduardo Carlos S. Pereira Junior | XXX-XXX-XXX | Estudando
 a | b | C
-
+a | d | C
 ***
 # *Algumas maneiras para destacar palavras*
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
