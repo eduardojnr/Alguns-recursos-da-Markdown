@@ -50,9 +50,10 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 * Em seguida, **tecle três subtrações e um |** para cada coluna criada.
 * Para escrever na tabela, é suficiente digitar o conteúdo de das colunas separados por **|**.
 ***Exemplo***
-Nome|Telefone|Status
+
+Nome | Telefone | Status
 ---|---|---
-Eduardo|XXX|Estudando
+Eduardo | XXX | Estudando
 
 ***
 # *Algumas maneiras para destacar palavras*
