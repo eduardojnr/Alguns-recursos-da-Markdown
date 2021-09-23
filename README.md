@@ -54,7 +54,7 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 Nome | Telefone | Status
 ---|---|---
 Eduardo Carlos S. Pereira Junior | XXX-XXX-XXX | Estudando
-Michelle Ventura | XXX-XXX-XXX | Trabalhando
+Michelle Ventura | XXX-XXX-XXX |Trabalhando
 Mateus Bonaparte | XXX-XXX-XXX | Estudando
 ***
 # *Algumas maneiras para destacar palavras*
