@@ -1,4 +1,4 @@
-# *Alguns recursos da Markdown*
+# *Markdown*
  Aqui estarei citando e exemplificando usabilidades da línguagem de marcação Markdown. Este artigo será útil no âmbito do GitHub sempre que for necessário interagir com *Readme, Issues e PullRequests*. Também será usado em ambientes *Jupyter, Trello* etc.
 ***
 # *Títulos*
