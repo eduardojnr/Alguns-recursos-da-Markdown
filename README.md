@@ -52,7 +52,7 @@ Também é possível marcar a tarefa como concluída, para tal, **basta remover 
 ***Exemplo***
 Nome | Telefone | Status
 ---|---|---
-EdUardo Carlos S. Pereira Junior | XXX-XXX-XXX | Estudando
+Eduardo| XXX | Estudando
 ***
 # *Algumas maneiras para destacar palavras*
 * **Negrito** - Teclar o conteúdo entre *asteriscos duplos* ou *underlines duplos*
